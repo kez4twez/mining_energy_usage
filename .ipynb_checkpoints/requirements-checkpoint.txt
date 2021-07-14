@@ -1,4 +1,4 @@
-jupyter notebook
+jupyter
 panel
 plotly
 requests
