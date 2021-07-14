@@ -1,0 +1,10 @@
+panel
+plotly
+requests
+numpy
+pandas
+hvplot
+pathlib
+io
+datetime
+python-binance
