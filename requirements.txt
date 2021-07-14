@@ -1,4 +1,5 @@
 jupyter
+nbconvert
 panel
 plotly
 requests
