@@ -1,4 +1,4 @@
-python 3.7.9
+python==3.7.10
 panel
 plotly
 requests
